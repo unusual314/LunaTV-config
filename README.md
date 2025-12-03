@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-03 14:19 CST）
+## API 状态（最近更新：2025-12-03 15:15 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：73
-- 失败 API 数量：7
-- 平均可用率：91.1%
-- 完美可用率（100%）：66 个
-- 高可用率（80%-99%）：7 个
+- 成功 API 数量：72
+- 失败 API 数量：8
+- 平均可用率：91.0%
+- 完美可用率（100%）：65 个
+- 高可用率（80%-99%）：8 个
 - 中等可用率（50%-79%）：0 个
 - 低可用率（<50%）：7 个
 
@@ -171,7 +171,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬最大资源 | https://api.zuidapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬天涯影视 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -228,6 +227,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ❌ | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 🎬爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
