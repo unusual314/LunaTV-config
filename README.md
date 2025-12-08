@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-09 01:14 CST）
+## API 状态（最近更新：2025-12-09 02:19 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：73
@@ -233,9 +233,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 78 | 22 | 78.0% | 0 |
-| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 63 | 37 | 63.0% | 36 |
+| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 92 | 8 | 92.0% | 0 |
+| ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
+| 🚨 | 🔞色南国 | https://api.sexnguon.com/api.php/provide/vod | 62 | 38 | 62.0% | 37 |
 | 🚨 | 🎬U酷88 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
